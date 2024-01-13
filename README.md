@@ -1,15 +1,18 @@
 **Purpose of Mathematical Transformation**
+
 --> The mathematical transformation used to transform the input features by applying the mathematical  Formulas in the input Columns.
 
 --> It uses to convert the the data from Probability density function to the Normalization.
 
 **Types of Mathematical Transformer**
+
 --> We have three types of Mathematical Transformer
                 1) Functional Transformer
                 2) Power Transformer
                 3) Quantile Transformer
 
 **Functional Transformer**
+
 --> Functional Transformer is a type of Mathematical Transformation.
 
 
@@ -25,6 +28,7 @@
 --> Custom transformers are those where we can create our on transformation and can apply on the data.
 
 **Log Transformation**
+
        --> Log Transformation is a technique of functional transformtion.
        
        --> Log Transformation cannot be used for the negative values on the input columns of the data.
@@ -32,11 +36,13 @@
        --> Log Transformation is applicable on right skewed data.
 
 **Reciprocal Transformation**
+
          --> Reciprocal Transformation is a technique of functioal  transformation.
          
          --> This transformation use to convert the large values to the small and small values to the large(viceversa).
          
 **Power Transformer**
+
           --> Power Transformer is a type of Mathematical Transformation.
 
           --> The Power Transformation can be done by the two techniques.
@@ -66,6 +72,7 @@
 
 
 **Yeo-Jhonson**
+
 --> Yeo Jhonson transform used to improve the Box-Cox transformation.
 
 --> This transformation can be used to zero and negative numbers.
