@@ -7,6 +7,7 @@
 **Types of Mathematical Transformer**
 
 --> We have three types of Mathematical Transformer
+
                 1) Functional Transformer
                 2) Power Transformer
                 3) Quantile Transformer
