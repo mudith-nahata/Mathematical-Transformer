@@ -18,6 +18,7 @@
 
 
 --> By Using  Feature Transformation we can apply
+
                  1) Log Transformation
                  2) Reciprocal Transformation
                  3) sqr/sqrt
